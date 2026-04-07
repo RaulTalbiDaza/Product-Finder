@@ -128,17 +128,17 @@ const productos = [
         precio: "8 €",
 
         fotos: [
-            "imagenes/zapatillas_Adidas_campus/frente.PNG",
-            "imagenes/zapatillas_Adidas_campus/atras.PNG",
-            "imagenes/zapatillas_Adidas_campus/der_ext.PNG",
-            "imagenes/zapatillas_Adidas_campus/der_int.PNG",
-            "imagenes/zapatillas_Adidas_campus/izq_ext.PNG",
-            "imagenes/zapatillas_Adidas_campus/izq_int.PNG",
-            "imagenes/zapatillas_Adidas_campus/plantilla.PNG",
-            "imagenes/zapatillas_Adidas_campus/suela.PNG",
-            "imagenes/zapatillas_Adidas_campus/defecto1.PNG",
-            "imagenes/zapatillas_Adidas_campus/defecto2.PNG",
-            "imagenes/zapatillas_Adidas_campus/defecto3.PNG"
+            "imagenes/zapatillas_Adidas_campus/frente.png",
+            "imagenes/zapatillas_Adidas_campus/atras.png",
+            "imagenes/zapatillas_Adidas_campus/der_ext.png",
+            "imagenes/zapatillas_Adidas_campus/der_int.png",
+            "imagenes/zapatillas_Adidas_campus/izq_ext.png",
+            "imagenes/zapatillas_Adidas_campus/izq_int.png",
+            "imagenes/zapatillas_Adidas_campus/plantilla.png",
+            "imagenes/zapatillas_Adidas_campus/suela.png",
+            "imagenes/zapatillas_Adidas_campus/defecto1.png",
+            "imagenes/zapatillas_Adidas_campus/defecto2.png",
+            "imagenes/zapatillas_Adidas_campus/defecto3.png"
         ]
     },
     {
@@ -150,16 +150,16 @@ const productos = [
         colores: ["Negro", "Blanco"],
         precio: "9 €",
         fotos: [
-            "imagenes/deportivas_mustang/frente.PNG",
-            "imagenes/deportivas_mustang/atras.PNG",
-            "imagenes/deportivas_mustang/der_ext.PNG",
-            "imagenes/deportivas_mustang/der_int.PNG",
-            "imagenes/deportivas_mustang/izq_ext.PNG",
-            "imagenes/deportivas_mustang/izq_int.PNG",
-            "imagenes/deportivas_mustang/plantilla.PNG",
-            "imagenes/deportivas_mustang/suela.PNG",
-            "imagenes/deportivas_mustang/defecto1.PNG",
-            "imagenes/deportivas_mustang/defecto2.PNG"
+            "imagenes/deportivas_mustang/frente.png",
+            "imagenes/deportivas_mustang/atras.png",
+            "imagenes/deportivas_mustang/der_ext.png",
+            "imagenes/deportivas_mustang/der_int.png",
+            "imagenes/deportivas_mustang/izq_ext.png",
+            "imagenes/deportivas_mustang/izq_int.png",
+            "imagenes/deportivas_mustang/plantilla.png",
+            "imagenes/deportivas_mustang/suela.png",
+            "imagenes/deportivas_mustang/defecto1.png",
+            "imagenes/deportivas_mustang/defecto2.png"
         ]
     },
     {
@@ -170,15 +170,15 @@ const productos = [
         colores: ["Rojo", "Negro"],
         precio: "12 €",
         fotos: [
-            "imagenes/botas_quechua/frente.PNG",
-            "imagenes/botas_quechua/atras.PNG",
-            "imagenes/botas_quechua/der_ext.PNG",
-            "imagenes/botas_quechua/der_int.PNG",
-            "imagenes/botas_quechua/izq_ext.PNG",
-            "imagenes/botas_quechua/izq_int.PNG",
-            "imagenes/botas_quechua/plantilla.PNG",
-            "imagenes/botas_quechua/suela.PNG",
-            "imagenes/botas_quechua/etiqueta.PNG"
+            "imagenes/botas_quechua/frente.png",
+            "imagenes/botas_quechua/atras.png",
+            "imagenes/botas_quechua/der_ext.png",
+            "imagenes/botas_quechua/der_int.png",
+            "imagenes/botas_quechua/izq_ext.png",
+            "imagenes/botas_quechua/izq_int.png",
+            "imagenes/botas_quechua/plantilla.png",
+            "imagenes/botas_quechua/suela.png",
+            "imagenes/botas_quechua/etiqueta.png"
         ]
     },
     {
@@ -189,14 +189,14 @@ const productos = [
         colores: ["Blanco", "Negro"],
         precio: "5 €",
         fotos: [
-            "imagenes/zapatillas_nyc1/frente.PNG",
-            "imagenes/zapatillas_nyc1/atras.PNG",
-            "imagenes/zapatillas_nyc1/der_ext.PNG",
-            "imagenes/zapatillas_nyc1/der_int.PNG",
-            "imagenes/zapatillas_nyc1/izq_ext.PNG",
-            "imagenes/zapatillas_nyc1/izq_int.PNG",
-            "imagenes/zapatillas_nyc1/plantilla.PNG",
-            "imagenes/zapatillas_nyc1/suela.PNG"
+            "imagenes/zapatillas_nyc1/frente.png",
+            "imagenes/zapatillas_nyc1/atras.png",
+            "imagenes/zapatillas_nyc1/der_ext.png",
+            "imagenes/zapatillas_nyc1/der_int.png",
+            "imagenes/zapatillas_nyc1/izq_ext.png",
+            "imagenes/zapatillas_nyc1/izq_int.png",
+            "imagenes/zapatillas_nyc1/plantilla.png",
+            "imagenes/zapatillas_nyc1/suela.png"
         ]
     },
     {
@@ -207,13 +207,13 @@ const productos = [
         colores: ["Blanco", "Negro"],
         precio: "9 €",
         fotos: [
-            "imagenes/zapatillas_nyc2/frente.PNG",
-            "imagenes/zapatillas_nyc2/atras.PNG",
-            "imagenes/zapatillas_nyc2/der_ext.PNG",
-            "imagenes/zapatillas_nyc2/izq_ext.PNG",
-            "imagenes/zapatillas_nyc2/izq_int.PNG",
-            "imagenes/zapatillas_nyc2/plantilla.PNG",
-            "imagenes/zapatillas_nyc2/suela.PNG"
+            "imagenes/zapatillas_nyc2/frente.png",
+            "imagenes/zapatillas_nyc2/atras.png",
+            "imagenes/zapatillas_nyc2/der_ext.png",
+            "imagenes/zapatillas_nyc2/izq_ext.png",
+            "imagenes/zapatillas_nyc2/izq_int.png",
+            "imagenes/zapatillas_nyc2/plantilla.png",
+            "imagenes/zapatillas_nyc2/suela.png"
         ]
     },
     {
@@ -224,15 +224,15 @@ const productos = [
         colores: ["Blanco", "Negro"],
         precio: "9 €",
         fotos: [
-            "imagenes/zapatillas_reebok/frente.PNG",
-            "imagenes/zapatillas_reebok/atras.PNG",
-            "imagenes/zapatillas_reebok/der_ext.PNG",
-            "imagenes/zapatillas_reebok/der_int.PNG",
-            "imagenes/zapatillas_reebok/izq_ext.PNG",
-            "imagenes/zapatillas_reebok/izq_int.PNG",
-            "imagenes/zapatillas_reebok/plantilla.PNG",
-            "imagenes/zapatillas_reebok/suela.PNG",
-            "imagenes/zapatillas_reebok/bordado_marca.PNG"
+            "imagenes/zapatillas_reebok/frente.png",
+            "imagenes/zapatillas_reebok/atras.png",
+            "imagenes/zapatillas_reebok/der_ext.png",
+            "imagenes/zapatillas_reebok/der_int.png",
+            "imagenes/zapatillas_reebok/izq_ext.png",
+            "imagenes/zapatillas_reebok/izq_int.png",
+            "imagenes/zapatillas_reebok/plantilla.png",
+            "imagenes/zapatillas_reebok/suela.png",
+            "imagenes/zapatillas_reebok/bordado_marca.png"
         ]
     },
     {
@@ -244,16 +244,16 @@ const productos = [
         colores: ["Negro", "Blanco"],
         precio: "18 €",
         fotos: [
-            "imagenes/zapatillas_vans/frente.PNG",
-            "imagenes/zapatillas_vans/atras.PNG",
-            "imagenes/zapatillas_vans/der_ext.PNG",
-            "imagenes/zapatillas_vans/der_int.PNG",
-            "imagenes/zapatillas_vans/izq_ext.PNG",
-            "imagenes/zapatillas_vans/izq_int.PNG",
-            "imagenes/zapatillas_vans/plantilla.PNG",
-            "imagenes/zapatillas_vans/suela.PNG",
-            "imagenes/zapatillas_vans/defecto1.PNG",
-            "imagenes/zapatillas_vans/defecto2.PNG"
+            "imagenes/zapatillas_vans/frente.png",
+            "imagenes/zapatillas_vans/atras.png",
+            "imagenes/zapatillas_vans/der_ext.png",
+            "imagenes/zapatillas_vans/der_int.png",
+            "imagenes/zapatillas_vans/izq_ext.png",
+            "imagenes/zapatillas_vans/izq_int.png",
+            "imagenes/zapatillas_vans/plantilla.png",
+            "imagenes/zapatillas_vans/suela.png",
+            "imagenes/zapatillas_vans/defecto1.png",
+            "imagenes/zapatillas_vans/defecto2.png"
         ]
     }
 ];
