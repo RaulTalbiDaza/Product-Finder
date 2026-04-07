@@ -65,7 +65,7 @@ const productos = [
         marca: "Nike",
         categoria: "Deportivas",
         talla: "41",
-        colores: ["Rosa", "Azul"],
+        colores: ["Rosa", "Turquesa"],
         precio: "18 €",
         fotos: [
             "imagenes/deportivas_nike/frente.PNG",
@@ -88,16 +88,16 @@ const productos = [
         colores: ["Blanco"],
         precio: "8,50 €",
         fotos: [
-            "imagenes/deportivas_reebook/frente.PNG",
-            "imagenes/deportivas_reebook/atras.PNG",
-            "imagenes/deportivas_reebook/der_ext.PNG",
-            "imagenes/deportivas_reebook/der_int.PNG",
-            "imagenes/deportivas_reebook/izq_ext.PNG",
-            "imagenes/deportivas_reebook/izq_int.PNG",
-            "imagenes/deportivas_reebook/plantilla.PNG",
-            "imagenes/deportivas_reebook/suela.PNG",
-            "imagenes/deportivas_reebook/defecto1.PNG",
-            "imagenes/deportivas_reebook/defecto2.PNG"
+            "imagenes/deportivas_reebok/frente.PNG",
+            "imagenes/deportivas_reebok/atras.PNG",
+            "imagenes/deportivas_reebok/der_ext.PNG",
+            "imagenes/deportivas_reebok/der_int.PNG",
+            "imagenes/deportivas_reebok/izq_ext.PNG",
+            "imagenes/deportivas_reebok/izq_int.PNG",
+            "imagenes/deportivas_reebok/plantilla.PNG",
+            "imagenes/deportivas_reebok/suela.PNG",
+            "imagenes/deportivas_reebok/defecto1.PNG",
+            "imagenes/deportivas_reebok/defecto2.PNG"
         ]
     },
     {
@@ -117,12 +117,150 @@ const productos = [
             "imagenes/deportivas_zara/plantilla.PNG",
             "imagenes/deportivas_zara/suela.PNG"
         ]
+    },
+    {
+        nombre: "Adidas Campus",
+        marca: "Adidas",
+        categoria: "Zapatillas",
+        talla: "42",
+        advertencia: "Los dos zapatos del par tienen huecos por dentro de los mismos",
+        colores: ["Blanco", "Negro"],
+        precio: "8 €",
+
+        fotos: [
+            "imagenes/zapatillas_Adidas_campus/frente.PNG",
+            "imagenes/zapatillas_Adidas_campus/atras.PNG",
+            "imagenes/zapatillas_Adidas_campus/der_ext.PNG",
+            "imagenes/zapatillas_Adidas_campus/der_int.PNG",
+            "imagenes/zapatillas_Adidas_campus/izq_ext.PNG",
+            "imagenes/zapatillas_Adidas_campus/izq_int.PNG",
+            "imagenes/zapatillas_Adidas_campus/plantilla.PNG",
+            "imagenes/zapatillas_Adidas_campus/suela.PNG",
+            "imagenes/zapatillas_Adidas_campus/defecto1.PNG",
+            "imagenes/zapatillas_Adidas_campus/defecto2.PNG",
+            "imagenes/zapatillas_Adidas_campus/defecto3.PNG"
+        ]
+    },
+    {
+        nombre: "Deportivas Mustang",
+        marca: "Mustang",
+        categoria: "Deportivas",
+        talla: "39",
+        advertencia: "La parte de atrás del pie por dentro en el zapato está desgastada, al igual que por fuera",
+        colores: ["Negro", "Blanco"],
+        precio: "9 €",
+        fotos: [
+            "imagenes/deportivas_mustang/frente.PNG",
+            "imagenes/deportivas_mustang/atras.PNG",
+            "imagenes/deportivas_mustang/der_ext.PNG",
+            "imagenes/deportivas_mustang/der_int.PNG",
+            "imagenes/deportivas_mustang/izq_ext.PNG",
+            "imagenes/deportivas_mustang/izq_int.PNG",
+            "imagenes/deportivas_mustang/plantilla.PNG",
+            "imagenes/deportivas_mustang/suela.PNG",
+            "imagenes/deportivas_mustang/defecto1.PNG",
+            "imagenes/deportivas_mustang/defecto2.PNG"
+        ]
+    },
+    {
+        nombre: "Botas Quechua",
+        marca: "Quechua",
+        categoria: "Botas Frío",
+        talla: "38",
+        colores: ["Rojo", "Negro"],
+        precio: "12 €",
+        fotos: [
+            "imagenes/botas_quechua/frente.PNG",
+            "imagenes/botas_quechua/atras.PNG",
+            "imagenes/botas_quechua/der_ext.PNG",
+            "imagenes/botas_quechua/der_int.PNG",
+            "imagenes/botas_quechua/izq_ext.PNG",
+            "imagenes/botas_quechua/izq_int.PNG",
+            "imagenes/botas_quechua/plantilla.PNG",
+            "imagenes/botas_quechua/suela.PNG",
+            "imagenes/botas_quechua/etiqueta.PNG"
+        ]
+    },
+    {
+        nombre: "Zapatillas NYC",
+        marca: "NYC",
+        categoria: "Zapatillas",
+        talla: "38",
+        colores: ["Blanco", "Negro"],
+        precio: "5 €",
+        fotos: [
+            "imagenes/zapatillas_nyc1/frente.PNG",
+            "imagenes/zapatillas_nyc1/atras.PNG",
+            "imagenes/zapatillas_nyc1/der_ext.PNG",
+            "imagenes/zapatillas_nyc1/der_int.PNG",
+            "imagenes/zapatillas_nyc1/izq_ext.PNG",
+            "imagenes/zapatillas_nyc1/izq_int.PNG",
+            "imagenes/zapatillas_nyc1/plantilla.PNG",
+            "imagenes/zapatillas_nyc1/suela.PNG"
+        ]
+    },
+    {
+        nombre: "Zapatillas NYC",
+        marca: "NYC",
+        categoria: "Zapatillas",
+        talla: "39",
+        colores: ["Blanco", "Negro"],
+        precio: "9 €",
+        fotos: [
+            "imagenes/zapatillas_nyc2/frente.PNG",
+            "imagenes/zapatillas_nyc2/atras.PNG",
+            "imagenes/zapatillas_nyc2/der_ext.PNG",
+            "imagenes/zapatillas_nyc2/izq_ext.PNG",
+            "imagenes/zapatillas_nyc2/izq_int.PNG",
+            "imagenes/zapatillas_nyc2/plantilla.PNG",
+            "imagenes/zapatillas_nyc2/suela.PNG"
+        ]
+    },
+    {
+        nombre: "Zapatillas Reebok",
+        marca: "Reebok",
+        categoria: "Zapatillas",
+        talla: "39",
+        colores: ["Blanco", "Negro"],
+        precio: "9 €",
+        fotos: [
+            "imagenes/zapatillas_reebok/frente.PNG",
+            "imagenes/zapatillas_reebok/atras.PNG",
+            "imagenes/zapatillas_reebok/der_ext.PNG",
+            "imagenes/zapatillas_reebok/der_int.PNG",
+            "imagenes/zapatillas_reebok/izq_ext.PNG",
+            "imagenes/zapatillas_reebok/izq_int.PNG",
+            "imagenes/zapatillas_reebok/plantilla.PNG",
+            "imagenes/zapatillas_reebok/suela.PNG",
+            "imagenes/zapatillas_reebok/bordado_marca.PNG"
+        ]
+    },
+    {
+        nombre: "Zapatillas Vans",
+        marca: "Vans",
+        categoria: "Zapatillas",
+        talla: "43",
+        advertencia: "Por dentro el zapato se encuentra despellejado al ser de cuero",
+        colores: ["Negro", "Blanco"],
+        precio: "18 €",
+        fotos: [
+            "imagenes/zapatillas_vans/frente.PNG",
+            "imagenes/zapatillas_vans/atras.PNG",
+            "imagenes/zapatillas_vans/der_ext.PNG",
+            "imagenes/zapatillas_vans/der_int.PNG",
+            "imagenes/zapatillas_vans/izq_ext.PNG",
+            "imagenes/zapatillas_vans/izq_int.PNG",
+            "imagenes/zapatillas_vans/plantilla.PNG",
+            "imagenes/zapatillas_vans/suela.PNG",
+            "imagenes/zapatillas_vans/defecto1.PNG",
+            "imagenes/zapatillas_vans/defecto2.PNG"
+        ]
     }
 ];
 
 // Elementos del DOM
 const searchInput = document.getElementById('searchInput');
-const minPriceInput = document.getElementById('minPrice');
+const colorFilter = document.getElementById('colorFilter');
 const maxPriceInput = document.getElementById('maxPrice');
 const resultsList = document.getElementById('resultsList');
 
@@ -148,8 +286,24 @@ function mostrarProductos(listaProductos) {
         if (producto.fotos && producto.fotos.length > 0) {
             // Generar las etiquetas <img> para cada foto
             const imagenes = producto.fotos.map(foto => {
-                // Hacemos que la foto de la planta específica no se corte si quieres restaurar esa regla manualmente después
-                const estiloEspecial = foto.includes('planta.PNG') ? 'style="object-fit: contain; background-color: #fff;"' : '';
+                // Opciones de estilo para fotos que no encajan perfectamente
+                let estiloEspecial = '';
+
+                // Mostrar la imagen entera sin recorte ninguno (con fondo blanco para rellenar)
+                if (foto.includes('planta.PNG') ||
+                    foto.includes('zapatillas_nyc2/suela.PNG') ||
+                    foto.includes('zapatillas_nyc2/plantilla.PNG') ||
+                    foto.includes('zapatillas_vans/plantilla.PNG')) {
+                    estiloEspecial = 'style="object-fit: contain; background-color: #fff;"';
+                }
+                // Hacer un ajuste de posición para compensar recortes por arriba/abajo
+                else if (foto.includes('zapatillas_Adidas_campus/plantilla.PNG') ||
+                    foto.includes('deportivas_mustang/plantilla.PNG') ||
+                    foto.includes('botas_quechua/suela.PNG') ||
+                    foto.includes('zapatillas_nyc1/suela.PNG')) {
+                    estiloEspecial = 'style="object-position: center 25%;"';
+                }
+
                 return `<img src="${foto}" alt="Foto" class="carousel-img" ${estiloEspecial}>`;
             }).join('');
 
@@ -229,7 +383,7 @@ mostrarProductos(productos);
 // Función para aplicar todos los filtros de búsqueda y de precio
 function aplicarFiltros() {
     const textoBusqueda = searchInput.value.toLowerCase().trim();
-    const minP = parseFloat(minPriceInput.value);
+    const colorSeleccionado = colorFilter.value.toLowerCase();
     const maxP = parseFloat(maxPriceInput.value);
 
     // Filtramos los productos
@@ -237,18 +391,20 @@ function aplicarFiltros() {
         // --- 1. Filtro de Texto ---
         const nombreMatch = producto.nombre && producto.nombre.toLowerCase().includes(textoBusqueda);
         const descripcionMatch = producto.descripcion && producto.descripcion.toLowerCase().includes(textoBusqueda);
-        const advertenciaMatch = producto.advertencia && producto.advertencia.toLowerCase().includes(textoBusqueda);
         const categoriaMatch = producto.categoria && producto.categoria.toLowerCase().includes(textoBusqueda);
         const marcaMatch = producto.marca && producto.marca.toLowerCase().includes(textoBusqueda);
         const tallaMatch = producto.talla && producto.talla.toLowerCase().includes(textoBusqueda);
 
-        // Comprobamos si tiene coincidencia en alguno de los colores
-        const coloresMatch = producto.colores && producto.colores.some(color => color.toLowerCase().includes(textoBusqueda));
-
         // Pasa el filtro de texto si el input está vacío o coincide con alguna propiedad
-        const textoPasa = textoBusqueda === "" || nombreMatch || descripcionMatch || advertenciaMatch || categoriaMatch || marcaMatch || coloresMatch || tallaMatch;
+        const textoPasa = textoBusqueda === "" || nombreMatch || descripcionMatch || categoriaMatch || marcaMatch || tallaMatch;
 
-        // --- 2. Filtro de Precio ---
+        // --- 2. Filtro de Color ---
+        let colorPasa = true;
+        if (colorSeleccionado !== "") {
+            colorPasa = producto.colores && producto.colores.some(color => color.toLowerCase() === colorSeleccionado);
+        }
+
+        // --- 3. Filtro de Precio ---
         let precioPasa = true; // Por defecto pasa
 
         if (producto.precio) {
@@ -257,10 +413,6 @@ function aplicarFiltros() {
             const precioNum = parseFloat(precioLimpio);
 
             if (!isNaN(precioNum)) {
-                // Comprueba si rompe el límite mínimo
-                if (!isNaN(minP) && precioNum < minP) {
-                    precioPasa = false;
-                }
                 // Comprueba si rompe el límite máximo
                 if (!isNaN(maxP) && precioNum > maxP) {
                     precioPasa = false;
@@ -268,15 +420,15 @@ function aplicarFiltros() {
             }
         }
 
-        // El producto se muestra solo si pasa correctamente AMBOS filtros (texto Y precio)
-        return textoPasa && precioPasa;
+        // El producto se muestra solo si pasa correctamente TODOS los filtros
+        return textoPasa && colorPasa && precioPasa;
     });
 
     // Actualizamos la vista con los resultados filtrados
     mostrarProductos(productosFiltrados);
 }
 
-// Event listeners para ejecutar la función cada vez que se escriba en los cuadros
+// Event listeners para ejecutar la función cada vez que se modifiquen los controles
 searchInput.addEventListener('input', aplicarFiltros);
-minPriceInput.addEventListener('input', aplicarFiltros);
+colorFilter.addEventListener('change', aplicarFiltros);
 maxPriceInput.addEventListener('input', aplicarFiltros);

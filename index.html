@@ -13,8 +13,17 @@
         <h1>Buscador de Productos</h1>
         <div class="filters-container">
             <input type="text" id="searchInput" placeholder="Buscar por nombre, descripción, talla...">
-            <div class="price-filters">
-                <input type="number" id="minPrice" placeholder="Precio mín (€)" min="0" step="1">
+            <div class="advanced-filters">
+                <select id="colorFilter">
+                    <option value="">Todos los colores</option>
+                    <option value="blanco">Blanco</option>
+                    <option value="negro">Negro</option>
+                    <option value="beige">Beige</option>
+                    <option value="rosa">Rosa</option>
+                    <option value="turquesa">Turquesa</option>
+                    <option value="marrón">Marrón</option>
+                    <option value="rojo">Rojo</option>
+                </select>
                 <input type="number" id="maxPrice" placeholder="Precio máx (€)" min="0" step="1">
             </div>
         </div>
